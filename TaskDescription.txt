@@ -1,0 +1,29 @@
+A Short Assignment:
+
+Develop an application with the following
+
+Web Page 1. Upload the following
+Flight Number - Input Field (10 characters; Example: SG8134)
+Airline - Input Field (20 Characters; Example: SpiceJet)
+Destination - Input Field (50 characters; Example: New Delhi)
+Departure Time - Input Field (10 characters; Example: 10:10 a.m.)
+Terminal -Input Field (2 Characters; Example 10)
+Gate Number - Input Field (2 Characters; Example: 11)
+Buttons: Save, Cancel
+
+Web Page 2 - Listing
+Display the data of all the records added from Web Page 1
+
+Web Page 3 - Chat
+Integrate ChatGPT API to ask questions on the data added by you. Some of the questions are as follows
+a. what are the flights to New Delhi
+b. Is there any flight to Cochin
+c. What is the status of SG8134
+
+Tools and Technologies to be used for development
+ReactJS
+NodeJS
+MongoDB
+API from Open AI
+
+Host the application on Vercel (https://vercel.com/) or on Cyclic (https://www.cyclic.sh/) or Render (https://render.com/) and share the URLs. Also commit the code to your Github account and share the URL to the repository
